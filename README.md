@@ -5,8 +5,8 @@ About this Dataset: Netflix is one of the most popular media and video streaming
 
 This project aims to build a movie recommendation mechanism and data analysis within Netflix. The dataset I used here come directly from Netflix.
 
-You can download the dataset here: Netflix Movies and TV Shows
+You can download the dataset here: https://www.kaggle.com/datasets/shivamb/netflix-shows/data
 
-Kaggle Notebook Link of this project
+Kaggle Notebook Link of this: https://www.kaggle.com/code/ahmedelsaghir/netflix-movies-and-tv-shows-eda-with-python
 
 This project will be consistently be updated! Welcome any suggestions! Let's get started!
